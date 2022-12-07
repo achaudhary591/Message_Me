@@ -66,4 +66,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'erb-formatter'
 
-gem 'rufo'
+gem 'formatters', '~> 1.0', '>= 1.0.1'
